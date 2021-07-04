@@ -8,7 +8,7 @@ h1{
     color: orange;
 }
 
-section{
+.section-area{
  display: flex;
  margin-bottom: 150px;
 }
@@ -49,4 +49,6 @@ p{
     background-repeat: no-repeat;
     background-position: right;
     background-position-y:bottom ;
+}
+.exprience-area{
 }
