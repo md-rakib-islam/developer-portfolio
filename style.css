@@ -13,12 +13,13 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left: 5%;
-    padding-top: 50px;
+    padding-left: 100px;
+   
 }
 .half-width img{
-    width: 80%;
+    width:90%;
 }
+
 .link-button{
     text-decoration: none;
 background-image: linear-gradient(tomato, green);    padding: 10px 40px;
@@ -28,4 +29,16 @@ background-image: linear-gradient(tomato, green);    padding: 10px 40px;
     
 
 }
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+body{
+    font-family: 'poppins', sans-serif;
+    margin: 0px;
+}
+p{
+    text-justify:newspaper;
+    text-align: justify;
 
+}
